@@ -13,3 +13,7 @@ This repository contains an ingredient file and Instruction file for Guacamole.
  Contains info on how to use Ingredients
  
  
+#### Publication History
+
+- published in "Easy Recipe"
+- published in "cook with avocados"
