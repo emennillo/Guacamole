@@ -1,6 +1,6 @@
 # Guacamole
 
-## Overiview
+## Overview
 This repository contains an ingredient file and Instruction file for Guacamole.
 
 ### Contents
